@@ -18,7 +18,7 @@ My name is Abdukazeez Alsharifi 👋, I am a detail-oriented and driven java eng
  
 <br>
 
-[<img src='https://github.com/aalsharifi/aalsharifi/blob/master/Golden-Linkedin-logo-icon-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/abdulazeez-alsharifi/)
+[<img src='https://github.com/aalsharifi/aalsharifi/blob/master/download.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/abdulazeez-alsharifi/)
 
  [<img src='https://github.com/aalsharifi/aalsharifi/blob/master/png-clipart-resume-curriculum-vitae-template-moto-highway-racing-computer-icons-resume-blue-text-removebg-preview.png' alt='googledrive' height='40'>](https://docs.google.com/document/d/1ewSU4mWcUswPXmTGlQRJ5tHL_sMscOTCKio8A8xJAgI/edit?usp=sharing)  
 
