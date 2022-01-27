@@ -1,5 +1,5 @@
+![](https://github.com/aalsharifi/aalsharifi/blob/master/banner.png)
 ### Hi there 👋, My name is Abdulazeez Alsharifi
-![](https://github.com/aalsharifi/aalsharifi/blob/master/Aspri.png)
 
 
 - 🔭 I’m currently working on this page. 
