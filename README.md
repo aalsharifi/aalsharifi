@@ -9,7 +9,6 @@ My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java eng
 
 <details open>
  <summary>✅ What am I working on?</summary>
-<br>
 ➕ Finish up Ecommerce Application frontend
 <br>
 ➕ Finish up gym website backennd
