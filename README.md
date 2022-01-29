@@ -1,14 +1,14 @@
 ![](https://github.com/aalsharifi/aalsharifi/blob/master/banner.png)
 
 <details open>
-<summary>💭 Who am I? Click here to see!</summary>
+<summary align="center">💭 Who am I? Click here to see!</summary>
 My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java engineering professional with an organized nature, customer-focused mindset, and good critical thinking skills. Bilingual troubleshooter and problem-solver motivated to learn, grow, and excel in IT industry.
 </details>
 
 <h1></h1>
 
 <details open>
- <summary>✅ What am I working on?</summary>
+ <summary align="center">✅ What am I working on?</summary>
 ➕ Finish up Ecommerce Application
 <br>
 ➕ Finish up gym website
@@ -20,7 +20,7 @@ My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java eng
  
 <h1></h1>
 
-☕ Let's get connected!
+<p align="center">☕ Let's get connected!</p>
 
 [<img src='https://github.com/aalsharifi/aalsharifi/blob/master/linkedin.png' alt='linkedin' height='50' width='50'>](https://www.linkedin.com/in/www.linkedin.com/abdulazeez-alsharifi/)  [<img src='https://github.com/aalsharifi/aalsharifi/blob/master/resume.png' alt='googledrive' height='50' width='50'>](https://docs.google.com/document/d/1ewSU4mWcUswPXmTGlQRJ5tHL_sMscOTCKio8A8xJAgI/edit?usp=sharing)  [<img src='https://github.com/aalsharifi/aalsharifi/blob/master/email.png' alt='gmail' height='50' width='50'>](mailto:abdulazeez.k.alsharifi@gmail.com)  
 
