@@ -4,9 +4,9 @@
 <summary>💭 Who am I? Click here to see!</summary>
 My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java engineering professional with an organized nature, customer-focused mindset, and good critical thinking skills. Bilingual troubleshooter and problem-solver motivated to learn, grow, and excel in IT industry.
 </details>
-
+<h1></h1>
 <details open>
- <summary><h3>✅ What am I working on?</h3></summary>
+ <summary>✅ What am I working on?</summary>
 ➕ Finish up Ecommerce Application
 <br>
 ➕ Finish up gym website
