@@ -26,6 +26,7 @@ My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java eng
 
 <h1></h1>
 
+
 ```java
 class AboutMe extends JavaDeveloper {
   constructor() {
