@@ -2,6 +2,7 @@
 
 <details open>
 <summary>💭 Who am I?</summary>
+<br>
 My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java engineering professional with an organized nature, customer-focused mindset, and good critical thinking skills. Bilingual troubleshooter and problem-solver motivated to learn, grow, and excel in IT industry.
 </details>
 
@@ -9,13 +10,14 @@ My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java eng
 
 <details open>
  <summary>✅ What am I working on?</summary>
-➕ Finish up Ecommerce Application frontend
+ <br>
+☐ Finish up Ecommerce Application frontend
 <br>
-➕ Finish up gym website backennd
+☐ Finish up gym website backennd
 <br>
-➕ Start another project
+☐ Start another project
 <br>
-➕ Get AWS certificate
+☐ Get AWS certificate
  </details>
  
 <h1></h1>
