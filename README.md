@@ -23,7 +23,7 @@ My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java eng
 
 <p align="center">☕ Let's get connected!</p>
 
-<p align="center">[<img src='https://github.com/aalsharifi/aalsharifi/blob/master/linkedin.png' alt='linkedin' height='50' width='50'>](https://www.linkedin.com/in/www.linkedin.com/abdulazeez-alsharifi/)  [<img src='https://github.com/aalsharifi/aalsharifi/blob/master/resume.png' alt='googledrive' height='50' width='50'>](https://docs.google.com/document/d/1ewSU4mWcUswPXmTGlQRJ5tHL_sMscOTCKio8A8xJAgI/edit?usp=sharing)  [<img src='https://github.com/aalsharifi/aalsharifi/blob/master/email.png' alt='gmail' height='50' width='50'>](mailto:abdulazeez.k.alsharifi@gmail.com) </p> 
+<p align="center">[<img src='https://github.com/aalsharifi/aalsharifi/blob/master/linkedin.png' alt='linkedin' height='50' width='50'>](https://www.linkedin.com/in/www.linkedin.com/abdulazeez-alsharifi/)</p>  [<img src='https://github.com/aalsharifi/aalsharifi/blob/master/resume.png' alt='googledrive' height='50' width='50'>](https://docs.google.com/document/d/1ewSU4mWcUswPXmTGlQRJ5tHL_sMscOTCKio8A8xJAgI/edit?usp=sharing)  [<img src='https://github.com/aalsharifi/aalsharifi/blob/master/email.png' alt='gmail' height='50' width='50'>](mailto:abdulazeez.k.alsharifi@gmail.com)
  
 
 
