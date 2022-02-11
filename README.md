@@ -1,12 +1,12 @@
 ![](https://github.com/aalsharifi/aalsharifi/blob/master/banner.png)
 
-<!-- <details open>
-<summary>💭 Who am I?</summary> -->
-<!-- <br> -->
+<details open>
+<summary>💭 Who am I?</summary>
+<br>
 My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java engineering professional with an organized nature, customer-focused mindset, and good critical thinking skills. Bilingual troubleshooter and problem-solver motivated to learn, grow, and excel in IT industry.
-<!-- </details> -->
+</details>
 
-<h1>Hi there, I'm Abdulazeez</h1> ![alt text](arm-emoji-strong-muscle-flex-bicep-emoticon-hand-cartoon-gym-bodybuilder-icon-arm-emoji-strong-muscle-flex-bicep-emoticon-hand-197792790-removebg-preview.png)
+<h1>Hi there, I'm Abdulazeez</h1> ![](https://github.com/aalsharifi/aalsharifi/blob/master/arm-emoji-strong-muscle-flex-bicep-emoticon-hand-cartoon-gym-bodybuilder-icon-arm-emoji-strong-muscle-flex-bicep-emoticon-hand-197792790-removebg-preview.png)
 
 <details open>
  <summary>✅ What am I working on?</summary>
