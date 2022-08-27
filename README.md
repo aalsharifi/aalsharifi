@@ -1,5 +1,3 @@
-![]()
-
 <details open>
 <summary>💭 Who am I?</summary>
 <br>
