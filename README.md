@@ -1,4 +1,4 @@
-![](397d61e8570d40e0a685d773d5b7a543.png)
+<h1><Abdulazeez Alsharifi></h1>
 
 <details open>
 <summary>💭 Who am I?</summary>
