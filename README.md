@@ -1,4 +1,13 @@
-<img src="https://github.com/aalsharifi/aalsharifi/blob/master/397d61e8570d40e0a685d773d5b7a543.png" width="1512" height="422">
+<svg width="300" height="100">
+  <title>Attribute Animation with SMIL</title>
+  <rect x="0" y="0" width="300" height="100" stroke="black" stroke-width="1" />
+  <circle cx="0" cy="50" r="15" fill="blue" stroke="black" stroke-width="1">
+    <animate
+       attributeName="cx" from="0" to="500"
+       dur="5s" repeatCount="indefinite" />
+  </circle>
+</svg>
+
 <details open>
 <summary>💭 Who am I?</summary>
 <br>
