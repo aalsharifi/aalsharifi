@@ -1,6 +1,6 @@
-<h1><Abdulazeez Alsharifi></h1>
 
 <details open>
+<h1><Abdulazeez Alsharifi></h1>
 <summary>💭 Who am I?</summary>
 <br>
 My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java engineering professional with an organized nature, customer-focused mindset, and good critical thinking skills. Bilingual troubleshooter and problem-solver motivated to learn, grow, and excel in IT industry.
