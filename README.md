@@ -1,4 +1,4 @@
-![](https://github.com/aalsharifi/aalsharifi/blob/master/Morph%20%26%20Color%20Animations.svg)
+![]()
 
 <details open>
 <summary>💭 Who am I?</summary>
