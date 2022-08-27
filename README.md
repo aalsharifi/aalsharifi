@@ -1,4 +1,4 @@
-<img src="https://github.com/aalsharifi/aalsharifi/blob/master/397d61e8570d40e0a685d773d5b7a543.png" width="350">
+<img src="https://github.com/aalsharifi/aalsharifi/blob/master/397d61e8570d40e0a685d773d5b7a543.png" width="1512" height="422">
 <details open>
 <summary>💭 Who am I?</summary>
 <br>
