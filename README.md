@@ -37,11 +37,11 @@ class AboutMe extends JavaDeveloper {
   getSkills() {
     return {
       languagesFrameworksAndLibraries: [
-        'HTML5', 'CSS3', 'Bootstrap', 'JavaScript', 'Vue.js', 'PostgreSQL', 'SQL', 'C', 'C#', 'C++', 'Java', 'Spring Boot'
+        'Angular', 'React', 'Vue.js', 'JavaScript', 'TypeScript', 'SQL', 'Java', 'Spring Boot', 'Cucumber', 'Junit', 'Jenkins', 'Docker', 'Prometheus' 
 
       ],
       tools: [
-        'Vue CLI', 'npm', 'Git', 'Github', 'VS Code', 'Intellij', 'MariaDB', 'Command line', 'Zoom', 'Discord', 'Slack'
+        'Git', 'Github', 'VS Code', 'Intellij', 'MariaDB', 'MySQL', 'Solr', 'Docusaurus', 'Elastic APM', 'Grafana', 'Splunk', 'Lens Kubernetes IDE', 'Kubectl'
 
       ]
     };
