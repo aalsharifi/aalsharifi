@@ -9,13 +9,13 @@ My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java eng
 <details open>
  <summary>✅ What am I working on?</summary>
  <br>
-☐ Finish up Ecommerce Application frontend
+☐ Finish up final details on the Ecommerce Application
 <br>
-☐ Finish up gym website backend
+☐ Design and implement a gym inspired website, frontend and backend
 <br>
-☐ Start another personal project
+☐ Wrap up Udemy course on kubernetes
 <br>
-☐ Get AWS certificate
+☐ Obtain AWS certificate
  </details>
  
 <h1></h1>
