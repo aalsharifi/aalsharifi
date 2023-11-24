@@ -1,7 +1,7 @@
 <details open>
 <summary>💭 Who am I?</summary>
 <br>
-My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java engineering professional with an organized nature, customer-focused mindset, and good critical thinking skills. Bilingual troubleshooter and problem-solver motivated to learn, grow, and excel in IT industry.
+My name is Abdulazeez Alsharifi 👋, I am a detail-oriented Java Developer seeking to leverage my technical skills and passion for software development in a challenging Java Engineering role.
 </details>
 
 <h1></h1>
@@ -30,22 +30,21 @@ My name is Abdulazeez Alsharifi 👋, I am a detail-oriented and driven java eng
 class AboutMe extends JavaDeveloper {
   constructor() {
     this.name = 'Abdulazeez Alsharifi';
-    this.location = 'Dearborn Heights MI';
+    this.location = 'MI, USA';
     this.email = 'Abdulazeez.k.alsharifi@gmail.com';
   }
   
-  getSkills() {
-    return {
-      languagesFrameworksAndLibraries: [
-        'Angular', 'React', 'Vue.js', 'JavaScript', 'TypeScript', 'SQL', 'Java', 'Spring Boot', 'Cucumber', 'Junit', 'Jenkins', 'Docker', 'Prometheus' 
+getSkills() {
+ return {
+   languagesFrameworksAndLibraries: [
+     'Java', 'Python', 'Spring Boot', 'JavaScript', 'TypeScript', 'Vue.js', 'React', 'Angular', 'MySQL', 'Cassandra', 'Amazon S3', 'Solr', 'Vespa', 'GCP Kafka', 'Azure', 'GCP', 'Splunk', 'Grafana', 'Prometheus', 'Elastic APM', 'Git', 'Github', 'Docusaurus', 'Junit', 'Cucumber', 'JMeter', 'Microsoft Office Suite'
+   ],
+   tools: [
+     'Docker', 'Kubectl', 'Lens Kubernetes IDE', 'HCC K8S', 'Jenkins'
+   ]
+ };
+}
 
-      ],
-      tools: [
-        'Git', 'Github', 'VS Code', 'Intellij', 'MariaDB', 'MySQL', 'Solr', 'Docusaurus', 'Elastic APM', 'Grafana', 'Splunk', 'Lens Kubernetes IDE', 'Kubectl', 'Jmeter'
-
-      ]
-    };
-  }
   
   getLinks() {
     return {
